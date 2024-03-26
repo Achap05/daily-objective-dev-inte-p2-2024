@@ -23,15 +23,15 @@ Hachemi
     - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
 - [x] Comprendre le merge dans Git
     - [X] Comprendre le "fast forward"
-    - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+    - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
 - [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
-- [ ] Découvrir l'interface de Github :
-    - [ ] Pull Requests
-    - [ ] Branches
+- [x] Découvrir l'interface de Github :
+    - [x] Pull Requests
+    - [x] Branches
     - [ ] Issues
     - [ ] Settings projet
     - [ ] Settings profile
