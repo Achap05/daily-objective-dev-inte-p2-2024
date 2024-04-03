@@ -6,8 +6,8 @@ Hachemi
 
 ### Markdown
 
-- [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
-    - [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
+- [x] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
+    - [x] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
 
 ### Git
 
@@ -20,7 +20,7 @@ Hachemi
   - [x] Renommer son dernier commit en respectant cette convention
 - [x] Comprendre le fonctionnement des branches dans Git :
     - [x] Lister, changer, créer, supprimer des branches
-    - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
+    - [x] Quelle est la différence entre `Git switch` et `Git checkout`
 - [x] Comprendre le merge dans Git
     - [X] Comprendre le "fast forward"
     - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
@@ -28,13 +28,13 @@ Hachemi
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
+- [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
 - [x] Découvrir l'interface de Github :
     - [x] Pull Requests
     - [x] Branches
-    - [ ] Issues
-    - [ ] Settings projet
-    - [ ] Settings profile
+    - [x] Issues
+    - [x] Settings projet
+    - [x] Settings profile
 
 ### IA
 
