@@ -16,5 +16,5 @@ Benjamin
   - [x] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments, IDs et le selecteur universel
   - [x] Savoir appliquer une mise en forme sur les éléments
   - [x] Comprendre le box model
-  - [ ] Découvrir le positionnement en CSS
+  - [X] Découvrir le positionnement en CSS
   - [x] Comprendre la spécificité en CSS
