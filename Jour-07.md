@@ -23,6 +23,6 @@ Hachemi
 - [x] Configurer son git : 
   - [x] Editeur 
   - [ ] Différenciateur (par ex : Delta) 
-  - [ ] Aliases 
+  - [x] Aliases 
   - [ ] Comprendre la différence entre config locale, globale et système
 
